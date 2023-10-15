@@ -1,0 +1,11 @@
+flask
+flask_cors
+pandas
+scikit-learn
+requests
+tensorflow
+pydub
+librosa
+SpeechRecognition
+
+#pip install -r requirements.txt
